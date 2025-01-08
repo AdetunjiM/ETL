@@ -1,0 +1,9 @@
+"""
+    Create the Persons  Class : Firstname , Lastname ,SSN, Customer_id ,Address ,
+    Create the Account class which has Account Number , In , Out , Account Type , balance 
+    Create Products list class : Product_id ,Product name ,cost 
+    Create Inventory List class : product id ,product_name Quantity In , Quantity out 
+    Create sales person class: Seller_id , First Name , Last Name 
+    Create Sales Class : product id, seller_id , product_name , customer_id ,quantiy , Price 
+    
+    """
